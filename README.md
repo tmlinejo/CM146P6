@@ -1,2 +1,1 @@
-# CM146P6
-P6: Reachability Analysis Visualization
+python p6_tool.py map2.txt
